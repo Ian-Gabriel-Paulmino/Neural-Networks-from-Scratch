@@ -330,11 +330,14 @@ This project demonstrates the fundamental principles of neural networks through 
 ## Authors
 
 Ian Gabriel Paulmino
-Ibrahim
-Corpuz
+Abdallah Ibrahim
+Joseph Corpuz
 
 ## References
 
 - Breast Cancer Wisconsin (Diagnostic) Dataset: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 - UCI Machine Learning Repository
 - scikit-learn documentation: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+
+## Video Link
+https://www.youtube.com/watch?v=_PDthTtmSW8
