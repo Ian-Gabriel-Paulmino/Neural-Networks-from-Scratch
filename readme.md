@@ -340,4 +340,4 @@ Joseph Corpuz
 - scikit-learn documentation: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
 
 ## Video Link
-https://www.youtube.com/watch?v=_PDthTtmSW8
+https://www.youtube.com/watch?v=OeH3Ugrod-g
